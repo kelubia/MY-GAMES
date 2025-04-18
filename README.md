@@ -22,7 +22,7 @@ Whether it's coding in **Python** or building wild worlds in **Godot**, I bring 
 ### 🐍 Python Games
 | Game | Description | Tech |
 |------|-------------|------|
-|  🚀 **Flying Alien Attack** | A Godot game with traps enemies and hoops aim to win coins | [🔗 View on GitHub](https://github.com/yourusername/dungeon-crawler) |
+|  🚀 **Flying Alien Attack** | A Godot game with traps enemies and hoops aim to win coins | [🔗 View on GitHub](https://github.com/kelubia/Flying-Alien-Attack) |
 | 🧠 **NeuroMaze** | A puzzle game inspired by ADHD brain patterns | `Python`, `Pygame`, `A* pathfinding` |
 | 💾 **ByteBlaster** | A memory-matching arcade shooter | `Python`, `Tkinter`, `SoundFX` |
 
