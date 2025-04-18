@@ -29,7 +29,7 @@ Whether it's coding in **Python** or building wild worlds in **Godot**, I bring 
 ### 🕹️ Godot Games
 | Game | Description | Tech |
 |------|-------------|------|
-| 🐱 **Neko Noir** | A moody detective cat platformer | `Godot`, `GDScript`, `Pixel Art` |
+| 🚀 **Flying Alien Attack**| A Godot game with traps enemies and hoops aim to win coins | [🔗 View on GitHub](https://github.com/kelubia/Flying-Alien-Attack) |
 | ✨ **Dreamweaver** | A magical narrative walking sim | `Godot 4`, `Shaders`, `Dialogue System` |
 | 🔮 **Cosmic Crush** | A match-3 meets space roguelike | `Godot`, `State Machines`, `UI/UX` |
 
